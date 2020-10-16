@@ -284,6 +284,7 @@ language = 'Python'
 pto = language[0,6:2] #
 print(pto) # Pto
 ```
+(SL: A typo here. It should be pto = language[0:6:2]. The grammer is var[start:end+1:step].)
 
 ### String Methods
 
