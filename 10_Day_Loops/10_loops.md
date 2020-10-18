@@ -82,7 +82,7 @@ else:
 ```
 
 The above loop condition will be false when count is 5 and the loop stops, and execution starts the else statement. As a result 5 will be printed.
-
+***SL: what a dead loop***
 
 ### Break and Continue - Part 1
 
