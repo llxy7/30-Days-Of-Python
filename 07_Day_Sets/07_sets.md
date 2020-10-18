@@ -160,9 +160,7 @@ st.remove('item2')
 fruits = {'banana', 'orange', 'mango', 'lemon'}
 fruits.pop()  # removes the last element from the set
 ```
-<div class="text-red mb-2">
-  SL: Not really correct for at least python3. It seems that set is maintained as a priority queue (with the order mechanism not completely known to me yet), and pop removes the first element according to this order. Try to print() before and after pop() to see.
-</div>
+***SL: Not really correct for at least python3. It seems that set is maintained as a priority queue (with the order mechanism not completely known to me yet), and pop removes the first element according to this order. Try to print() before and after pop() to see.***
 
 
 ### Clearing Items in a Set
